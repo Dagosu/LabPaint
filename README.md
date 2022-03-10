@@ -1,7 +1,6 @@
 # LabPaint
 
 ## - Unity 2D Game
-## - Made in C#
 ## - SQLite Database
 
 ### Game Description
